@@ -1,18 +1,11 @@
-/**
- * @name Messenger XP
- * @author Pillechou
- * @description Messenger vibe
- * @version 0.1
- 
- */
-
 
 @import 'src/placeholder.scss';
 
 
 .typeWindows__5fa63 {
-    background: url(http://www.netscape-communications.com/wp-content/uploads/2021/07/topbarmsn9.png);
-    background-size: cover;
+    background:url(assets/topbarmsn9.png);
+    //background: url(http://www.netscape-communications.com/wp-content/uploads/2021/07/topbarmsn9.png);
+    background-size:cover;
 }
 
 .bg__12180, /*Canary FIx*/
