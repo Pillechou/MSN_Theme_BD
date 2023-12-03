@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "rimraf {build}",
     "build": "sass ./main.scss build/index.css",
-    "test": "sass ./main.scss C:/Users/pillechou/AppData/Roaming/BetterDiscord/data/stable/custom.css" 
+    "test": "sass ./main.scss C:/Users/pillechou/AppData/Roaming/BetterDiscord/data/stable/custom.css"
   },
   "author": {
     "name": "Pillechou",

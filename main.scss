@@ -1,5 +1,6 @@
 
 @import 'src/placeholder.scss';
+@import 'https://unpkg.com/xp.css';
 
 /*Discord Bar*/ 
 %titlebarWin {
@@ -15,7 +16,8 @@
 }
 %titlebarWinButtonMinMax{
     content: url(http://www.netscape-communications.com/wp-content/uploads/2021/07/close2.png);
-height:17px;
+    
+    height:17px;
 width:17px;
 margin-top:5px;
 margin-right:5px;

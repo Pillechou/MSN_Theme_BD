@@ -25,8 +25,11 @@
 
 ## About The Project
 
+### Ressources 
+
 Inspiring : https://www.deviantart.com/kamuisuki/art/Discord-MSN-Explorer-10-theme-873282935
 
+[XP.css](https://botoxparty.github.io/XP.css/)
 
 
 ## Built With
