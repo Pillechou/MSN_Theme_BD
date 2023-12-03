@@ -25,6 +25,7 @@
 
 ## About The Project
 
+Inspiring : https://www.deviantart.com/kamuisuki/art/Discord-MSN-Explorer-10-theme-873282935
 
 
 
